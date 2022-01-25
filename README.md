@@ -41,6 +41,8 @@ Recommended Courses:
 The requirements of the character finder project are deliberately loose, 
 but here are some basic items the finder should have:
 
+Basic/Junior:
+
 * A search box - When a user searches for a Marvel character name, the respective matches
 are displayed in a list or grid format below.
 * Each character "card" should show at least the character image (or placeholder if no image), 
@@ -49,6 +51,14 @@ and the character's name.
 * Clicking on a character card will present additional information about the character
 either on a new page, or within the same interface.
 * You have full say on the visual representation of the finder elements. UI libraries are OK.
+
+Additional Requirements:
+
+* Implement an API proxy in Next cloud functions.
+* Usalise a React context/provider.
+* Implement some kind of state storage/caching.
+* Implement in TypScript.
+* Add tests.
 
 ###  Marvel API
 
@@ -65,8 +75,6 @@ https://developer.marvel.com/documentation/authorization.
 
 * API security
 * Responsive layout and usability
-* Componentisation
-* Contexts/Providers
 * Documenting
 * GitHub, Commits, Pull Requests
 
