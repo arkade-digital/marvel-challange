@@ -60,6 +60,11 @@ Advanced Requirements:
 * Implement in TypScript.
 * Add tests.
 
+Extra Items:
+
+* Integrated a headless CMS to create editable content within the finder, such as a landing banner banner/content area, FAQs page or about page.
+* Ideally use GraphQL
+
 ###  Marvel API
 
 Marvel provides a free developer API for listing characters. 
