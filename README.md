@@ -52,7 +52,7 @@ and the character's name.
 either on a new page, or within the same interface.
 * You have full say on the visual representation of the finder elements. UI libraries are OK.
 
-Additional Requirements:
+Advanced Requirements:
 
 * Implement an API proxy in Next cloud functions.
 * Usalise a React context/provider.
