@@ -41,7 +41,7 @@ Recommended Courses:
 The requirements of the character finder project are deliberately loose, 
 but here are some basic items the finder should have:
 
-Basic/Junior:
+Basic:
 
 * A search box - When a user searches for a Marvel character name, the respective matches
 are displayed in a list or grid format below.
@@ -52,11 +52,11 @@ and the character's name.
 either on a new page, or within the same interface.
 * You have full say on the visual representation of the finder elements. UI libraries are OK.
 
-Advanced Requirements:
+Ideas:
 
 * Implement an API proxy in Next cloud functions.
 * Usalise a React context/provider.
-* Implement some kind of state storage/caching.
+* Implement state storage/caching.
 * Implement in TypScript.
 * Add tests.
 
